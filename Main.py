@@ -1,5 +1,5 @@
 # metodo per stampare qualcosa
-# ciao
+# ciao!!!!
 
 x = 'l\'amare è MOLTO importante'
 
